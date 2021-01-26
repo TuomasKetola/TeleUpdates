@@ -1,4 +1,5 @@
 config.py
+*.session
 # Virtualenv
 bin/
 include/
